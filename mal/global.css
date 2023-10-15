@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-montserrat: Montserrat;
+  --font-architects-daughter: "Architects Daughter";
+
+  /* font sizes */
+  --font-size-lg: 18px;
+  --font-size-11xl: 30px;
+  --font-size-71xl: 90px;
+  --font-size-6xl: 25px;
+  --font-size-xl: 20px;
+  --font-size-21xl: 40px;
+
+  /* Colors */
+  --color-black: #000;
+  --color-white: #fff;
+
+  /* Gaps */
+  --gap-3xs: 10px;
+  --gap-35xl: 54px;
+
+  /* Paddings */
+  --padding-11xl: 30px;
+
+  /* Border radiuses */
+  --br-21xl: 40px;
+  --br-31xl: 50px;
+  --br-41xl: 60px;
+}

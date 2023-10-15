@@ -1,0 +1,340 @@
+.bird-2-transformed-2-icon4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 111.57px;
+  height: 111.57px;
+  object-fit: cover;
+}
+.logo9,
+.tourx5 {
+  position: absolute;
+}
+.nav3,a{
+  color: white;
+}
+.nav3 :hover{
+  color:red;
+  /* text-decoration: underline; */
+}
+.tourx5 {
+  top: 55.78px;
+  left: 63.28px;
+  font-weight: 600;
+  background: conic-gradient(
+    from 89.75deg at 50% 50%,
+    #2718f8 0deg,
+    #ef13df 51.43deg,
+    #0167ff 102.86deg,
+    #00b7ff 154.29deg,
+    #f70394 205.71deg,
+    #3e5d9c 257.14deg,
+    #d700ff 308.57deg,
+    #11e9fa 360deg
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+  width: 120.72px;
+  height: 30.81px;
+}
+.logo9 {
+  top: 0;
+  left: 0;
+}
+.logo8,
+.logo9 {
+  width: 184px;
+  height: 111.57px;
+}
+.explore6,
+.home3,
+.logo8 {
+  position: relative;
+  cursor: pointer;
+}
+.explore6 {
+  display: inline-block;
+  width: 76px;
+  height: 24.69px;
+  flex-shrink: 0;
+}
+.nav3,
+.navigation3 {
+  display: flex;
+  flex-direction: row;
+}
+.nav3 {
+  padding: var(--padding-11xl) 0;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-35xl);
+  font-size: var(--font-size-xl);
+}
+.navigation3 {
+  position: absolute;
+  width: calc(100% - 103px);
+  top: 0;
+  right: 66px;
+  left: 37px;
+  align-items: center;
+  justify-content: space-between;
+  font-size: var(--font-size-11xl);
+}
+.icon-of-maldives1 {
+  position: absolute;
+  top: 160px;
+  left: 516px;
+  width: 77px;
+  height: 81.92px;
+  object-fit: cover;
+}
+.journey-to-rome,
+.rome1 {
+  position: absolute;
+  top: 238px;
+  left: 406px;
+  font-size: var(--font-size-71xl);
+  font-weight: 600;
+}
+.journey-to-rome {
+  top: 367px;
+  left: 386px;
+  font-size: var(--font-size-4xl);
+  display: inline-block;
+  width: 358px;
+}
+.helicopter-icon {
+  position: absolute;
+  top: 129px;
+  left: 773px;
+  border-radius: var(--br-41xl);
+  width: 300px;
+  height: 483px;
+  object-fit: cover;
+  cursor: pointer;
+}
+
+.pantheon-elite-tour {
+  margin: 0;
+}
+.pantheon-elite-tour-container {
+  position: absolute;
+  top: 569px;
+  left: 839px;
+  font-weight: 600;
+  display: inline-block;
+  width: 205px;
+  height: 25px;
+}
+.hotel-icon9,
+.rome-child {
+  position: absolute;
+  top: 534px;
+  left: 924px;
+  width: 26.24px;
+  height: 27.39px;
+  object-fit: cover;
+}
+.rome-child {
+  top: 634px;
+  left: 1099px;
+  border-radius: var(--br-21xl);
+  width: 757px;
+  height: 263px;
+  cursor: pointer;
+}
+.colosseum-arena-floor-container {
+  position: absolute;
+  top: 737px;
+  left: 1310px;
+  font-weight: 600;
+  display: inline-block;
+  width: 258px;
+  height: 81px;
+}
+.map-pin1 {
+  position: absolute;
+  top: 766px;
+  left: 1157px;
+  width: 33px;
+  height: 33px;
+  overflow: hidden;
+}
+.vector-icon {
+  height: 3.36%;
+  width: 1.39%;
+  top: 78.65%;
+  right: 36.68%;
+  bottom: 17.99%;
+  left: 61.93%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.hotel-icon10,
+.vector-icon,
+.vector-icon1 {
+  position: absolute;
+  object-fit: cover;
+}
+.vector-icon1 {
+  height: 1.07%;
+  width: 0.53%;
+  top: 79.51%;
+  right: 37.11%;
+  bottom: 19.43%;
+  left: 62.36%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.hotel-icon10 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-41xl);
+  width: 355px;
+  height: 498px;
+}
+.pompeii-amalfi-coast-container {
+  position: absolute;
+  top: 41.93px;
+  left: 66px;
+  font-weight: 600;
+  display: inline-block;
+  width: 258px;
+  height: 82.14px;
+}
+.hotel-icon11 {
+  position: absolute;
+  top: 47.92px;
+  left: 28px;
+  width: 33px;
+  height: 33px;
+  object-fit: cover;
+}
+.hotel-parent1 {
+  position: absolute;
+  top: 122px;
+  left: 1501px;
+  width: 355px;
+  height: 498px;
+  cursor: pointer;
+}
+.rome-item {
+  position: absolute;
+  top: 153px;
+  left: 81px;
+  border-radius: var(--br-21xl);
+  width: 263px;
+  height: 102px;
+  object-fit: cover;
+}
+.itlay1 {
+  position: absolute;
+  top: 175px;
+  left: 89px;
+  font-size: var(--font-size-21xl);
+  display: inline-block;
+  text-align: center;
+  width: 248px;
+  height: 57px;
+}
+.hotel-icon12 {
+  position: absolute;
+  top: 122px;
+  left: 1116px;
+  border-radius: var(--br-41xl);
+  width: 355px;
+  height: 498px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.piazza-navona {
+  position: absolute;
+  top: 164px;
+  left: 1194px;
+  font-size: var(--font-size-4xl);
+  font-weight: 600;
+  display: inline-block;
+  width: 258px;
+  height: 29px;
+}
+.group-child2,
+.hotel-icon13 {
+  position: absolute;
+  top: 159.92px;
+  left: 1144px;
+  width: 33px;
+  height: 33px;
+  object-fit: cover;
+}
+.group-child2 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-21xl);
+  width: 709.73px;
+  height: 263px;
+}
+.centro-storico {
+  position: absolute;
+  top: 50.18px;
+  left: 505.43px;
+  font-weight: 600;
+  display: inline-block;
+  width: 226.57px;
+  height: 22.3px;
+}
+.hotel-icon14 {
+  position: absolute;
+  top: 45.54px;
+  left: 468.63px;
+  width: 31.95px;
+  height: 30.67px;
+  object-fit: cover;
+}
+.rectangle-parent1,
+.rome-inner {
+  position: absolute;
+  top: 634px;
+  left: 367px;
+  width: 732px;
+  height: 263px;
+  cursor: pointer;
+}
+.rome-inner {
+  top: 309px;
+  left: 81px;
+  border-radius: var(--br-21xl);
+  width: 263px;
+  height: 606px;
+  object-fit: cover;
+}
+.santa-maria-in-container {
+  position: absolute;
+  top: 832.5px;
+  left: 181.5px;
+  font-weight: 600;
+  display: inline-block;
+  width: 185px;
+  height: 22px;
+}
+.hotel-icon15 {
+  position: absolute;
+  top: 837.5px;
+  left: 133.5px;
+  width: 33px;
+  height: 33px;
+  object-fit: cover;
+}
+.rome {
+  position: relative;
+  background-color: var(--color-black);
+  width: 100%;
+  height: 960px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+}

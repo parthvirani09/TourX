@@ -1,0 +1,341 @@
+.bird-2-transformed-3-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 111.57px;
+  height: 111.57px;
+  object-fit: cover;
+}
+.logo5,
+.tourx3 {
+  position: absolute;
+}
+.nav1,a{
+  color: white;
+}
+.nav1 :hover{
+  color:red;
+  /* text-decoration: underline; */
+}
+.tourx3 {
+  top: 55.78px;
+  left: 63.28px;
+  font-weight: 600;
+  background: conic-gradient(
+    from 89.75deg at 50% 50%,
+    #2718f8 0deg,
+    #ef13df 51.43deg,
+    #0167ff 102.86deg,
+    #00b7ff 154.29deg,
+    #f70394 205.71deg,
+    #3e5d9c 257.14deg,
+    #d700ff 308.57deg,
+    #11e9fa 360deg
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+  width: 120.72px;
+  height: 30.81px;
+}
+.logo5 {
+  top: 0;
+  left: 0;
+}
+.logo4,
+.logo5 {
+  width: 184px;
+  height: 111.57px;
+}
+.explore4,
+.home1,
+.logo4 {
+  position: relative;
+  cursor: pointer;
+}
+.explore4 {
+  display: inline-block;
+  width: 76px;
+  height: 24.69px;
+  flex-shrink: 0;
+}
+.nav1,
+.navigation1 {
+  display: flex;
+  flex-direction: row;
+}
+.nav1 {
+  padding: var(--padding-11xl) 0;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-35xl);
+  font-size: var(--font-size-xl);
+}
+.navigation1 {
+  position: absolute;
+  width: calc(100% - 103px);
+  top: 0;
+  right: 69px;
+  left: 34px;
+  align-items: center;
+  justify-content: space-between;
+  font-size: var(--font-size-11xl);
+}
+.icon-of-maldives {
+  position: absolute;
+  top: 134px;
+  left: 77px;
+  width: 94.19px;
+  height: 94.19px;
+  object-fit: cover;
+}
+.escape-to-maldives,
+.maldives2 {
+  position: absolute;
+  top: 134px;
+  left: 215px;
+  font-size: var(--font-size-71xl);
+  font-weight: 600;
+}
+.escape-to-maldives {
+  top: 266px;
+  left: 77px;
+  font-size: var(--font-size-6xl);
+  display: inline-block;
+  width: 899px;
+}
+.dance-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-41xl);
+  width: 326px;
+  height: 526px;
+  object-fit: cover;
+}
+.watch-boduberu-show {
+  margin: 0;
+}
+.watch-boduberu-show-container {
+  position: absolute;
+  top: 62.25px;
+  left: 56.09px;
+  font-weight: 600;
+  display: inline-block;
+  width: 225.51px;
+  height: 49.8px;
+}
+.dance-icon1 {
+  position: absolute;
+  top: 14.52px;
+  left: 146.06px;
+  width: 38.56px;
+  height: 34.24px;
+  object-fit: cover;
+}
+.dance-parent {
+  position: absolute;
+  top: 398px;
+  left: 246px;
+  width: 326px;
+  height: 526px;
+  cursor: pointer;
+  text-align: center;
+}
+.helicopter-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-41xl);
+  width: 376px; height: 526px;
+  object-fit: cover;
+}
+.take-a-helicopter-container {
+  position: absolute;
+  top: 457.31px;
+  left: 76.26px;
+  display: inline-block;
+  width: 226.66px;
+  height: 65.07px;
+}
+.helicopter-icon1 {
+  position: absolute;
+  top: 460.02px;
+  left: 29.66px;
+  width: 34.95px;
+  height: 29.82px;
+  object-fit: cover;
+}
+.helicopter-parent {
+  position: absolute;
+  top: 398px;
+  left: 619px;
+  width: 376px;
+  height: 526px;
+  cursor: pointer;
+}
+.hotel-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-41xl);
+  width: 376px;
+  height: 404px;
+  object-fit: cover;
+}
+.romantic-dinner-at-container {
+  position: absolute;
+  top: 34.01px;
+  left: 69.9px;
+  font-weight: 600;
+  display: inline-block;
+  width: 273.26px;
+  height: 49.98px;
+}
+.hotel-icon1 {
+  position: absolute;
+  top: 34.01px;
+  left: 28.6px;
+  width: 34.95px;
+  height: 22.91px;
+  object-fit: cover;
+}
+.hotel-parent {
+  position: absolute;
+  top: 520px;
+  left: 1042px;
+  width: 376px;
+  height: 404px;
+  cursor: pointer;
+}
+.scuba-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-41xl);
+  width: 386.15px;
+  height: 400px;
+  object-fit: cover;
+}
+.scuba {
+  position: absolute;
+  top: 327.18px;
+  left: 222.91px;
+  display: inline-block;
+  width: 187.09px;
+  height: 44.34px;
+}
+.scuba-icon1 {
+  position: absolute;
+  top: 331.17px;
+  left: 182.11px;
+  width: 30.41px;
+  height: 30.48px;
+  object-fit: cover;
+}
+.glow-beach-icon,
+.scuba-parent {
+  position: absolute;
+  width: 410px;
+  height: 400px;
+}
+.scuba-parent {
+  top: 520px;
+  left: 1465px;
+  cursor: pointer;
+}
+.glow-beach-icon {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-41xl);
+  object-fit: cover;
+}
+.glowing-beach-on {
+  position: absolute;
+  top: 339px;
+  left: 214px;
+  display: inline-block;
+  width: 194.1px;
+  height: 72.98px;
+}
+.beach-icon {
+  position: absolute;
+  top: 342px;
+  left: 173px;
+  width: 31.54px;
+  height: 31.5px;
+  object-fit: cover;
+}
+.glow-beach-parent {
+  position: absolute;
+  top: 98px;
+  left: 1444px;
+  width: 410px;
+  height: 411.98px;
+  cursor: pointer;
+}
+.glow-beach-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-41xl);
+  width: 383px;
+  height: 400px;
+  object-fit: cover;
+}
+.alimatha-island {
+  position: absolute;
+  top: 334px;
+  left: 202px;
+  display: inline-block;
+  width: 181px;
+  height: 31px;
+}
+.beach-icon1 {
+  position: absolute;
+  top: 332.21px;
+  left: 161.96px;
+  width: 29.46px;
+  height: 31.5px;
+  object-fit: cover;
+}
+.maldives-6 {
+  position: absolute;
+  top: 98px;
+  left: 1042px;
+  width: 383px;
+  height: 400px;
+  cursor: pointer;
+}
+.maldives-child {
+  position: absolute;
+  top: 398px;
+  left: 51px;
+  border-radius: var(--br-21xl);
+  width: 146px;
+  height: 526px;
+  object-fit: cover;
+}
+.india {
+  position: absolute;
+  top: 814px;
+  left: 71px;
+  font-size: var(--font-size-71xl);
+  font-weight: 900;
+  display: inline-block;
+  width: 400px;
+  height: 91px;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+}
+.maldives1 {
+  position: relative;
+  background-color: var(--color-black);
+  width: 100%;
+  height: 960px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+}

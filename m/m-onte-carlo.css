@@ -1,0 +1,313 @@
+.bird-2-transformed-2-icon5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 111.57px;
+  height: 111.57px;
+  object-fit: cover;
+}
+.nav4,a{
+  color: white;
+}
+.nav4 :hover{
+  color:red;
+  /* text-decoration: underline; */
+}
+.tourx6 {
+  position: absolute;
+  top: 55.78px;
+  left: 63.28px;
+  font-weight: 600;
+  background: conic-gradient(
+    from 89.75deg at 50% 50%,
+    #2718f8 0deg,
+    #ef13df 51.43deg,
+    #0167ff 102.86deg,
+    #00b7ff 154.29deg,
+    #f70394 205.71deg,
+    #3e5d9c 257.14deg,
+    #d700ff 308.57deg,
+    #11e9fa 360deg
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+  width: 120.72px;
+  height: 30.81px;
+}
+.logo10,
+.logo11 {
+  width: 184px;
+  height: 111.57px;
+}
+.logo11 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  cursor: pointer;
+}
+.logo10 {
+  position: relative;
+}
+.explore7,
+.home4 {
+  position: relative;
+  cursor: pointer;
+}
+.explore7 {
+  display: inline-block;
+  width: 76px;
+  height: 24.69px;
+  flex-shrink: 0;
+}
+.nav4,
+.navigation4 {
+  display: flex;
+  flex-direction: row;
+}
+.nav4 {
+  padding: var(--padding-11xl) 0;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-35xl);
+  font-size: var(--font-size-xl);
+}
+.navigation4 {
+  position: absolute;
+  width: calc(100% - 103px);
+  top: 0;
+  right: 66px;
+  left: 37px;
+  align-items: center;
+  justify-content: space-between;
+  font-size: var(--font-size-11xl);
+}
+.icon-of-maldives2 {
+  position: absolute;
+  top: 123px;
+  left: 832px;
+  width: 83px;
+  height: 83px;
+  object-fit: cover;
+}
+.experience-opulence-and,
+.monte-carlo1 {
+  position: absolute;
+  top: 127px;
+  left: 931px;
+  font-size: var(--font-size-51xl);
+  font-weight: 600;
+}
+.experience-opulence-and {
+  top: 230px;
+  left: 832px;
+  font-size: var(--font-size-4xl);
+  display: inline-block;
+  width: 605px;
+}
+.hotel-icon16 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-41xl);
+  width: 357px;
+  height: 520px;
+  object-fit: cover;
+}
+.oceanographic-museum-of {
+  margin: 0;
+}
+.oceanographic-museum-of-container {
+  position: absolute;
+  top: 43.78px;
+  left: 66.37px;
+  font-weight: 600;
+  display: inline-block;
+  width: 259.45px;
+  height: 64.33px;
+}
+.hotel-icon17 {
+  position: absolute;
+  top: 50.03px;
+  left: 28.16px;
+  width: 33.19px;
+  height: 29.48px;
+  object-fit: cover;
+}
+.helicopter-icon1,
+.hotel-parent2 {
+  position: absolute;
+  top: 117px;
+  left: 418px;
+  width: 357px;
+  height: 520px;
+  cursor: pointer;
+}
+.helicopter-icon1 {
+  top: 135px;
+  left: 1551px;
+  border-radius: var(--br-41xl);
+  width: 306px;
+  height: 502px;
+  object-fit: cover;
+}
+.monte-carlo-harbor-container {
+  position: absolute;
+  top: 176px;
+  left: 1618px;
+  font-weight: 600;
+  display: inline-block;
+  width: 258px;
+  height: 28px;
+}
+.hotel-icon18,
+.monte-carlo-child {
+  position: absolute;
+  top: 173px;
+  left: 1580px;
+  width: 33px;
+  height: 33px;
+  object-fit: cover;
+}
+.monte-carlo-child {
+  top: 656px;
+  left: 418px;
+  border-radius: var(--br-21xl);
+  width: 630px;
+  height: 263px;
+  cursor: pointer;
+}
+.japanese-gardens {
+  position: absolute;
+  top: 881px;
+  left: 837px;
+  font-weight: 600;
+  display: inline-block;
+  width: 258px;
+  height: 27px;
+}
+.hotel-icon19 {
+  position: absolute;
+  top: 875px;
+  left: 797px;
+  width: 33px;
+  height: 33px;
+  object-fit: cover;
+}
+.helicopter,
+.helicopter-child {
+  position: absolute;
+  width: 644px;
+  height: 240px;
+}
+.helicopter-child {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-21xl);
+  object-fit: cover;
+}
+.helicopter {
+  top: 393px;
+  left: 851px;
+  cursor: pointer;
+}
+.the-private-collection {
+  position: absolute;
+  top: 573px;
+  left: 972px;
+  font-weight: 600;
+  display: inline-block;
+  width: 448px;
+  height: 52px;
+}
+.map-pin-icon7 {
+  position: absolute;
+  top: 582px;
+  left: 927px;
+  width: 33px;
+  height: 33px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.monte-carlo-inner,
+.monte-carlo-item {
+  position: absolute;
+  border-radius: var(--br-21xl);
+  height: 263px;
+  object-fit: cover;
+}
+.monte-carlo-item {
+  top: 666px;
+  left: 1236px;
+  width: 630px;
+  cursor: pointer;
+}
+.monte-carlo-inner {
+  top: 663px;
+  left: 1082px;
+  width: 120px;
+}
+.monaco1,
+.opera-de-monte-carlo-container {
+  position: absolute;
+  font-weight: 600;
+  display: inline-block;
+}
+.monaco1 {
+  top: 912px;
+  left: 1113px;
+  font-size: var(--font-size-21xl);
+  text-align: center;
+  width: 248px;
+  height: 57px;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+}
+.opera-de-monte-carlo-container {
+  top: 680px;
+  left: 1350px;
+  width: 258px;
+  height: 26px;
+}
+.hotel-icon20,
+.monte-carlo-child1 {
+  position: absolute;
+  top: 676px;
+  left: 1305px;
+  width: 33px;
+  height: 33px;
+  object-fit: cover;
+}
+.monte-carlo-child1 {
+  top: 117px;
+  left: 64px;
+  border-radius: var(--br-21xl);
+  width: 303px;
+  height: 802px;
+  cursor: pointer;
+}
+.casino-of-monte-carlo-container {
+  position: absolute;
+  top: 161px;
+  left: 125px;
+  font-weight: 600;
+}
+.hotel-icon21 {
+  position: absolute;
+  top: 170px;
+  left: 76px;
+  width: 33px;
+  height: 33px;
+  object-fit: cover;
+}
+.monte-carlo {
+  position: relative;
+  background-color: var(--color-black);
+  width: 100%;
+  height: 960px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+}
