@@ -1,0 +1,390 @@
+.bird-2-transformed-2-icon6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 111.57px;
+  height: 111.57px;
+  object-fit: cover;
+}
+.nav5,a{
+  color: white;
+}
+.nav5 :hover{
+  color:red;
+  /* text-decoration: underline; */
+}
+.logo13,
+.tourx7 {
+  position: absolute;
+}
+.tourx7 {
+  top: 55.78px;
+  left: 63.28px;
+  font-weight: 600;
+  background: conic-gradient(
+    from 89.75deg at 50% 50%,
+    #2718f8 0deg,
+    #ef13df 51.43deg,
+    #0167ff 102.86deg,
+    #00b7ff 154.29deg,
+    #f70394 205.71deg,
+    #3e5d9c 257.14deg,
+    #d700ff 308.57deg,
+    #11e9fa 360deg
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+  width: 120.72px;
+  height: 30.81px;
+}
+.logo13 {
+  top: 0;
+  left: 0;
+}
+.logo12,
+.logo13 {
+  width: 184px;
+  height: 111.57px;
+}
+.explore8,
+.home5,
+.logo12 {
+  position: relative;
+  cursor: pointer;
+}
+.explore8 {
+  display: inline-block;
+  width: 76px;
+  height: 24.69px;
+  flex-shrink: 0;
+}
+.nav5,
+.navigation5 {
+  display: flex;
+  flex-direction: row;
+}
+.nav5 {
+  padding: var(--padding-11xl) 0;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-35xl);
+  font-size: var(--font-size-xl);
+}
+.navigation5 {
+  position: absolute;
+  width: calc(100% - 103px);
+  top: 0;
+  right: 64px;
+  left: 39px;
+  align-items: center;
+  justify-content: space-between;
+  font-size: var(--font-size-11xl);
+}
+.icon-of-maldives3 {
+  position: absolute;
+  top: 657px;
+  left: 97px;
+  width: 94.19px;
+  height: 94.19px;
+  object-fit: cover;
+}
+.discover-the-enchanting,
+.geneva1 {
+  position: absolute;
+  font-weight: 600;
+  display: inline-block;
+}
+.geneva1 {
+  top: 652px;
+  left: 223px;
+  font-size: 85px;
+  width: 383px;
+}
+.discover-the-enchanting {
+  top: 772px;
+  left: 60px;
+  font-size: var(--font-size-6xl);
+  text-align: center;
+  width: 737px;
+}
+.group-child3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-21xl);
+  width: 320px;
+  height: 196px;
+  object-fit: cover;
+}
+.switzerland2 {
+  position: absolute;
+  top: 70px;
+  left: 26px;
+  font-weight: 900;
+  display: inline-block;
+  width: 294px;
+  height: 55px;
+}
+.rectangle-parent2 {
+  position: absolute;
+  top: 440px;
+  left: 446px;
+  width: 320px;
+  height: 196px;
+  font-size: var(--font-size-21xl);
+}
+.group-child4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-41xl);
+  width: 700px;
+  height: 281px;
+  object-fit: cover;
+}
+.muse-ariana {
+  margin: 0;
+}
+.scuba {
+  position: absolute;
+  top: 4.54px;
+  left: 41.34px;
+  display: inline-block;
+  width: 190.71px;
+  height: 22.72px;
+}
+.scuba-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 31px;
+  height: 29.99px;
+  object-fit: cover;
+}
+.scuba-parent,
+.vector-parent {
+  position: absolute;
+  top: 14px;
+  left: 71px;
+  width: 232.04px;
+  height: 29.99px;
+}
+.vector-parent {
+  top: 118px;
+  left: 1156px;
+  width: 700px;
+  height: 281px;
+  cursor: pointer;
+}
+.scuba1 {
+  position: absolute;
+  top: 4.49px;
+  left: 36.79px;
+  display: inline-block;
+  width: 227.02px;
+  height: 21.54px;
+}
+.scuba-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 29.61px;
+  height: 29.61px;
+  object-fit: cover;
+}
+.city-tour,
+.scuba-group,
+.vector-group {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 263.81px;
+  height: 29.61px;
+}
+.city-tour,
+.vector-group {
+  top: 26px;
+  left: 68px;
+}
+.vector-group {
+  top: 118px;
+  left: 430px;
+  width: 700px;
+  height: 281px;
+  cursor: pointer;
+}
+.scuba2 {
+  position: absolute;
+  top: 0;
+  left: 44px;
+  display: inline-block;
+  width: 203px;
+}
+.scuba-icon2 {
+  position: absolute;
+  top: 15px;
+  left: 0;
+  width: 33px;
+  height: 33px;
+  object-fit: cover;
+}
+.scuba-container {
+  position: absolute;
+  top: 375px;
+  left: 60px;
+  width: 247px;
+  height: 96px;
+}
+.rectangle-parent3 {
+  position: absolute;
+  top: 440px;
+  left: 1553px;
+  width: 307px;
+  height: 472px;
+  cursor: pointer;
+}
+.choco-child,
+.scuba3 {
+  position: absolute;
+  top: 0;
+}
+.choco-child {
+  left: 0;
+  border-radius: var(--br-21xl);
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0.17),
+    rgba(255, 255, 255, 0.51)
+  );
+  backdrop-filter: blur(14px);
+  width: 244px;
+  height: 92px;
+}
+.scuba3 {
+  left: 42px;
+  display: inline-block;
+  width: 203px;
+}
+.scuba-icon3 {
+  position: absolute;
+  top: 19px;
+  left: 0;
+  width: 33px;
+  height: 33px;
+  object-fit: cover;
+}
+.choco,
+.choco-inner,
+.scuba-parent1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 245px;
+  height: 72px;
+}
+.choco,
+.choco-inner {
+  top: 10px;
+  left: 5px;
+}
+.choco {
+  top: 356px;
+  left: 57px;
+  width: 250px;
+  height: 92px;
+}
+.child,
+.vector-container {
+  position: absolute;
+  width: 307px;
+  height: 472px;
+}
+.vector-container {
+  top: 440px;
+  left: 1206px;
+  cursor: pointer;
+}
+.child {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-41xl);
+  object-fit: cover;
+}
+.choco-inner1,
+.choco1,
+.div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 245px;
+  height: 96px;
+}
+.choco1,
+.div {
+  top: 366px;
+  left: 62px;
+}
+.div {
+  top: 440px;
+  left: 849px;
+  width: 307px;
+  height: 472px;
+  cursor: pointer;
+}
+.group-child8,
+.scuba5 {
+  position: absolute;
+  top: 0;
+}
+.group-child8 {
+  left: 0;
+  border-radius: var(--br-41xl);
+  width: 306px;
+  height: 513px;
+  object-fit: cover;
+}
+.scuba5 {
+  left: 44px;
+  display: inline-block;
+  width: 234px;
+}
+.scuba-icon5 {
+  position: absolute;
+  top: 10px;
+  left: 0;
+  width: 33px;
+  height: 33px;
+  object-fit: cover;
+}
+.boat,
+.scuba-parent3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 278px;
+  height: 72px;
+}
+.boat {
+  top: 60px;
+  left: 14px;
+}
+.rectangle-parent4 {
+  position: absolute;
+  top: 112px;
+  left: 98px;
+  width: 306px;
+  height: 513px;
+  cursor: pointer;
+}
+.geneva {
+  position: relative;
+  background-color: var(--color-black);
+  width: 100%;
+  height: 960px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+}

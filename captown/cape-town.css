@@ -1,0 +1,333 @@
+.lion-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-21xl);
+  width: 415px;
+  height: 448px;
+  object-fit: cover;
+}
+.nav1,a{
+  color: white;
+}
+.nav1 :hover{
+  color:red;
+  /* text-decoration: underline; */
+}
+.lions-head {
+  position: absolute;
+  top: 40px;
+  left: 81px;
+  font-weight: 600;
+  display: inline-block;
+  width: 119px;
+  height: 22px;
+}
+.map-pin-icon {
+  position: absolute;
+  top: 36px;
+  left: 36px;
+  width: 33px;
+  height: 33px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.lion {
+  position: absolute;
+  top: 133px;
+  left: 986px;
+  width: 415px;
+  height: 448px;
+  cursor: pointer;
+}
+.cape-town1 {
+  position: absolute;
+  top: 0;
+  left: 230px;
+  font-weight: 600;
+}
+.map-pin-icon1 {
+  position: absolute;
+  top: 4px;
+  left: 106px;
+  width: 78px;
+  height: 78px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.discover-cape-towns {
+  position: absolute;
+  top: 92px;
+  left: 0;
+  font-size: var(--font-size-11xl);
+  font-weight: 600;
+  display: inline-block;
+  width: 799px;
+}
+.description {
+  position: absolute;
+  top: 625px;
+  left: 550px;
+  width: 799px;
+  height: 277px;
+  font-size: var(--font-size-51xl);
+}
+.bird-2-transformed-2-icon2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 111.57px;
+  height: 111.57px;
+  object-fit: cover;
+}
+.logo5,
+.tourx3 {
+  position: absolute;
+}
+.tourx3 {
+  top: 55.78px;
+  left: 63.28px;
+  font-weight: 600;
+  background: conic-gradient(
+    from 89.75deg at 50% 50%,
+    #2718f8 0deg,
+    #ef13df 51.43deg,
+    #0167ff 102.86deg,
+    #00b7ff 154.29deg,
+    #f70394 205.71deg,
+    #3e5d9c 257.14deg,
+    #d700ff 308.57deg,
+    #11e9fa 360deg
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+  width: 120.72px;
+  height: 30.81px;
+}
+.logo5 {
+  top: 0;
+  left: 0;
+}
+.logo4,
+.logo5 {
+  width: 184px;
+  height: 111.57px;
+}
+.explore4,
+.home1,
+.logo4 {
+  position: relative;
+  cursor: pointer;
+}
+.explore4 {
+  display: inline-block;
+  width: 76px;
+  height: 24.69px;
+  flex-shrink: 0;
+}
+.nav1,
+.navigation1 {
+  display: flex;
+  flex-direction: row;
+}
+.nav1 {
+  padding: var(--padding-11xl) 0;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-35xl);
+  font-size: var(--font-size-xl);
+}
+.navigation1 {
+  position: absolute;
+  width: calc(100% - 103px);
+  top: 0;
+  right: 66px;
+  left: 37px;
+  align-items: center;
+  justify-content: space-between;
+  font-size: var(--font-size-11xl);
+}
+.cable-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-21xl);
+  width: 400px;
+  height: 449px;
+  object-fit: cover;
+}
+.table-mountain-aerial {
+  margin: 0;
+}
+.table-mountain-aerial-container {
+  position: absolute;
+  top: 33px;
+  left: 81px;
+  font-weight: 600;
+  display: inline-block;
+  width: 294px;
+  height: 45px;
+}
+.map-pin-icon2 {
+  position: absolute;
+  top: 36px;
+  left: 32px;
+  width: 33px;
+  height: 33px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.cable {
+  position: absolute;
+  top: 133px;
+  left: 37px;
+  width: 400px;
+  height: 449px;
+  cursor: pointer;
+}
+.nature-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-21xl);
+  width: 437px;
+  height: 448px;
+  object-fit: cover;
+}
+.cape-point-nature-container {
+  position: absolute;
+  top: 40px;
+  left: 92px;
+  font-weight: 600;
+  display: inline-block;
+  width: 278px;
+  height: 31px;
+}
+.map-pin-icon3 {
+  position: absolute;
+  top: 39px;
+  left: 44px;
+  width: 33px;
+  height: 33px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.nature {
+  position: absolute;
+  top: 133px;
+  left: 493px;
+  width: 437px;
+  height: 448px;
+  cursor: pointer;
+}
+.aquarium-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-21xl);
+  width: 460px;
+  height: 300px;
+  object-fit: cover;
+}
+.two-oceans-aquarium-container {
+  position: absolute;
+  top: 15px;
+  left: 202px;
+  font-weight: 600;
+  display: inline-block;
+  width: 234px;
+  height: 29px;
+}
+.map-pin-icon4 {
+  position: absolute;
+  top: 9px;
+  left: 150px;
+  width: 33px;
+  height: 33px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.aquarium {
+  position: absolute;
+  top: 602px;
+  left: 35px;
+  width: 460px;
+  height: 300px;
+  cursor: pointer;
+}
+.bo-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-21xl);
+  width: 421px;
+  height: 448px;
+  object-fit: cover;
+}
+.bo-kaap {
+  position: absolute;
+  top: 51px;
+  left: 88px;
+  font-weight: 600;
+}
+.map-pin-icon5 {
+  position: absolute;
+  top: 50px;
+  left: 35px;
+  width: 33px;
+  height: 33px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.bo {
+  position: absolute;
+  top: 133px;
+  left: 1457px;
+  width: 421px;
+  height: 448px;
+  cursor: pointer;
+}
+.diamond-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-21xl);
+  width: 478px;
+  height: 300px;
+  object-fit: cover;
+}
+.cape-town-diamond-container {
+  position: absolute;
+  top: 252px;
+  left: 133px;
+  font-weight: 600;
+}
+.map-pin-icon6 {
+  position: absolute;
+  top: 243px;
+  left: 87px;
+  width: 33px;
+  height: 33px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.diamond {
+  position: absolute;
+  top: 605px;
+  left: 1403px;
+  width: 478px;
+  height: 300px;
+  cursor: pointer;
+}
+.cape-town {
+  position: relative;
+  background-color: var(--color-black);
+  width: 100%;
+  height: 960px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+}
