@@ -1,0 +1,80 @@
+ .card span,.card1,.card2{
+    position: absolute;
+    display: block;
+    width: 0px;
+    height: 0px;
+    transform: translate(-50% , -50%);
+    border-radius: 50%;
+    opacity: 0.95;
+    background: #9c27b0;
+    z-index: 1;
+    transition: width 0.5s, height 0.5s;
+}
+ .card:hover span,.card1,.card2
+{
+    width: 1000px;
+    height: 1000px;
+}
+ .card .content,.card1,.card2
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1;
+}
+ .card .content div,.card1,.card2{
+    padding: 40px;
+    color: aliceblue;
+    visibility: hidden;
+    opacity: 0;
+    transform: translate(50px) ;
+    transition: 0.2s;
+}
+ .card:hover .content div,.card1,.card2{
+    visibility: visible;
+    opacity: 1;
+    transform: translate(0px) ;
+}
+ .card .imgBx,.card1,.card2
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+ .card .imgBx img,.card1,.card2{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+ .card
+{
+    position: relative;
+    border-radius: var(--br-41xl);
+    width: 326px;
+    height: 526px;
+    overflow: hidden;
+}
+
+
+/* <div class="card">
+        <span></span>
+        <div class="imgBx"><img class="dance-icon" alt="" src="./public/undefined31.png" /></div>
+        <div class="content">
+          <div>
+            <h2>card titel</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis sapiente, quas sit quos est, officia
+              natus ut minima ad, obcaecati pariatur! Sapiente aperiam velit ullam qui reiciendis fuga corporis earum?
+            </p>
+          </div>
+        </div>
+      </div> */

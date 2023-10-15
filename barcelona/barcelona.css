@@ -1,0 +1,317 @@
+.bird-2-transformed-2-icon3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 111.57px;
+  height: 111.57px;
+  object-fit: cover;
+}
+.nav2,a{
+  color: white;
+}
+.nav2 :hover{
+  color:red;
+  /* text-decoration: underline; */
+}
+.tourx4 {
+  position: absolute;
+  top: 55.78px;
+  left: 63.28px;
+  font-weight: 600;
+  background: conic-gradient(
+    from 89.75deg at 50% 50%,
+    #2718f8 0deg,
+    #ef13df 51.43deg,
+    #0167ff 102.86deg,
+    #00b7ff 154.29deg,
+    #f70394 205.71deg,
+    #3e5d9c 257.14deg,
+    #d700ff 308.57deg,
+    #11e9fa 360deg
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+  width: 120.72px;
+  height: 30.81px;
+}
+.logo6,
+.logo7 {
+  width: 184px;
+  height: 111.57px;
+}
+.logo7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  cursor: pointer;
+}
+.logo6 {
+  position: relative;
+}
+.explore5,
+.home2 {
+  position: relative;
+  /* cursor: pointer; */
+}
+.explore5 {
+  display: inline-block;
+  width: 76px;
+  height: 24.69px;
+  flex-shrink: 0;
+}
+.nav2,
+.navigation2 {
+  display: flex;
+  flex-direction: row;
+}
+.nav2 {
+  padding: var(--padding-11xl) 0;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-35xl);
+  font-size: var(--font-size-xl);
+}
+.navigation2 {
+  position: absolute;
+  width: calc(100% - 103px);
+  top: 0;
+  right: 66px;
+  left: 37px;
+  align-items: center;
+  justify-content: space-between;
+  font-size: var(--font-size-11xl);
+}
+.map-pin {
+  position: absolute;
+  top: 766px;
+  left: 1157px;
+  width: 33px;
+  height: 33px;
+  overflow: hidden;
+}
+.icon-of-maldives {
+  position: absolute;
+  top: 159px;
+  left: 1386px;
+  width: 56.4px;
+  height: 60px;
+  object-fit: cover;
+}
+.barcelona1,
+.experience-the-unique {
+  position: absolute;
+  font-weight: 600;
+  display: inline-block;
+}
+.barcelona1 {
+  top: 141px;
+  left: 1475px;
+  font-size: var(--font-size-51xl);
+  width: 444px;
+  height: 78px;
+}
+.experience-the-unique {
+  top: 232px;
+  left: 1282px;
+  font-size: var(--font-size-4xl);
+  text-align: right;
+  width: 568px;
+}
+.hotel-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-41xl);
+  width: 300px;
+  height: 525px;
+  object-fit: cover;
+}
+.baslica-de-la {
+  margin: 0;
+}
+.baslica-de-la-container {
+  position: absolute;
+  top: 450.13px;
+  left: 74px;
+  font-weight: 600;
+  display: inline-block;
+  width: 218px;
+  height: 44.2px;
+}
+.hotel-icon1 {
+  position: absolute;
+  top: 457.34px;
+  left: 18px;
+  width: 33px;
+  height: 29.77px;
+  object-fit: cover;
+}
+.hotel-icon2,
+.hotel-parent {
+  position: absolute;
+  height: 525px;
+}
+.hotel-parent {
+  top: 396px;
+  left: 1554px;
+  width: 300px;
+  cursor: pointer;
+}
+.hotel-icon2 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-41xl);
+  width: 264.98px;
+  object-fit: cover;
+}
+.casa-batll {
+  position: absolute;
+  top: 479.9px;
+  left: 106.82px;
+  font-weight: 600;
+  display: inline-block;
+  width: 193.18px;
+  height: 43.3px;
+}
+.hotel-icon3 {
+  position: absolute;
+  top: 476.29px;
+  left: 41.4px;
+  width: 27.33px;
+  height: 29.77px;
+  object-fit: cover;
+}
+.barcelona-child,
+.hotel-group {
+  position: absolute;
+  top: 396px;
+  left: 1215px;
+  width: 300px;
+  height: 525px;
+  cursor: pointer;
+}
+.barcelona-child {
+  top: 394px;
+  left: 874px;
+  object-fit: cover;
+}
+.parc-guell {
+  position: absolute;
+  top: 36px;
+  left: 56px;
+  font-weight: 600;
+  display: inline-block;
+  width: 218.03px;
+  height: 22.55px;
+}
+.hotel-icon5 {
+  position: absolute;
+  top: 31px;
+  left: 18px;
+  width: 33px;
+  height: 33px;
+  object-fit: cover;
+}
+.hotel-container {
+  position: absolute;
+  top: 386px;
+  left: 534px;
+  width: 300px;
+  height: 525px;
+  cursor: pointer;
+}
+.palace-of-catalan-container {
+  position: absolute;
+  top: 417px;
+  left: 952px;
+  font-weight: 600;
+  display: inline-block;
+  width: 204px;
+}
+.barcelona-item,
+.hotel-icon6 {
+  position: absolute;
+  top: 424px;
+  left: 914px;
+  width: 33px;
+  height: 33px;
+  object-fit: cover;
+}
+.barcelona-item {
+  top: 128px;
+  left: 530px;
+  border-radius: var(--br-21xl);
+  width: 582px;
+  height: 227px;
+  cursor: pointer;
+}
+.gothic-quarter-barri-container {
+  position: absolute;
+  top: 291px;
+  left: 876px;
+  font-weight: 600;
+  display: inline-block;
+  width: 247.1px;
+}
+.barcelona-inner,
+.hotel-icon7 {
+  position: absolute;
+  top: 301px;
+  left: 828px;
+  width: 31.61px;
+  height: 33px;
+  object-fit: cover;
+}
+.barcelona-inner {
+  top: 128px;
+  left: 1149px;
+  border-radius: var(--br-21xl);
+  width: 100px;
+  height: 227px;
+}
+.spain1 {
+  position: absolute;
+  top: 305px;
+  left: 1174px;
+  font-size: var(--font-size-21xl);
+  font-weight: 900;
+  text-align: right;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+}
+.barcelona-child1 {
+  position: absolute;
+  top: 114px;
+  left: 64px;
+  border-radius: var(--br-21xl);
+  width: 430px;
+  height: 797px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.spotify-camp-nou {
+  position: absolute;
+  top: 852px;
+  left: 286px;
+  font-weight: 600;
+}
+.hotel-icon8 {
+  position: absolute;
+  top: 843px;
+  left: 246px;
+  width: 33px;
+  height: 33px;
+  object-fit: cover;
+}
+.barcelona {
+  position: relative;
+  background-color: var(--color-black);
+  width: 100%;
+  height: 960px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+}
